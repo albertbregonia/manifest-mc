@@ -1,0 +1,8 @@
+name: Manifest
+version: ${project.version}
+main: kanin.manifest.Main
+api-version: 1.18
+prefix: Manifest
+authors: [ Albert_Bregonia ]
+description: A Code Based Minecraft Survival Plugin
+website: https://github.com/albertbregonia
